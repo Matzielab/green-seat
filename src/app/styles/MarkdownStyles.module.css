@@ -1,0 +1,23 @@
+.markdownWrapper {
+  h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0.5em 0;
+  }
+
+  h2 {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin: 0.5em 0;
+  }
+
+  p {
+    margin: 1.5em 0 0 0;
+  }
+}
+
+.chatMarkdownWrapper {
+  p + p {
+    margin: 1.5em 0 0 0;
+  }
+}
