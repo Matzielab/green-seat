@@ -1,3 +1,7 @@
+# **Gemini API competition submission**
+
+This branch represents the state the code was in when submitted to the Google Gemini API competition. Everything except the README.md file was submitted. You can also see the [submission video](https://youtu.be/x-b0fCmL-Hc)
+
 # **Green Seat: Meetings using Environmental Intelligence**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
